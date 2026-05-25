@@ -13,6 +13,6 @@ if game.PlaceId == 286090429 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/JosephScripts/arsenal/refs/heads/main/arsenal.lua"))()
 end
 
-if game.PlaceId == 17625359962 then
+if game.PlaceId == 17625359962 or 117398147513099 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/JosephScripts/rivals/refs/heads/main/rivals.txt"))()
 end
